@@ -1,23 +1,57 @@
+<div align="center">
+
 # Hi there, I'm Arthur Zelek! 👋
 
-### Software Engineer
-
+### 🚀 Software Engineer
 I am a Graduate Engineer from the **University of Bielsko-Biała** and a current student of **Informatics & Econometrics** at the **University of Economics in Katowice**. I focus on building robust backend solutions and leveraging data-driven insights.
 
-🔭 I’m currently working on<br>Building backend applications with Spring Framework and SQL/NoSQL integration<br><br>🌱 I’m currently learning<br>Clean Code principles in Java, Spring Data JPA, and Unit Testing (JUnit/Mockito)<br><br>💬 Ask me about<br>Java basics, Object-Oriented Programming, and SQL/NoSQL
+---
 
+### 🔭 Currently working on
+Building backend applications with **Spring Framework** and **SQL/NoSQL** integration
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/artur-zelek-in) 
+### 🌱 Currently learning
+Clean Code in Java, Spring Data JPA, and Unit Testing (**JUnit/Mockito**)
 
-# 💻 Tech Stack:
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=flat&logo=kotlin&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=flat&logo=firebase) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=flat&logo=google-cloud&logoColor=white) ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=flat&logo=angular&logoColor=white) ![Chart.js](https://img.shields.io/badge/chart.js-F5788D.svg?style=flat&logo=chart.js&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=flat&logo=django&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=flat&logo=JSON%20web%20tokens) ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=flat&logo=nestjs&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=flat&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white) ![RabbitMQ](https://img.shields.io/badge/rabbitmq-FF6600?style=flat&logo=rabbitmq&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=flat&logo=socket.io&badgeColor=010101) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=flat&logo=spring&logoColor=white) ![Three js](https://img.shields.io/badge/threejs-black?style=flat&logo=three.js&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=flat&logo=nginx&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=flat&logo=redis&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=flat&logo=sqlite&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=flat&logo=postgresql&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=flat&logo=firebase&logoColor=ffcd34) ![Aseprite](https://img.shields.io/badge/Aseprite-FFFFFF?style=flat&logo=Aseprite&logoColor=#7D929E) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat&logo=pandas&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=flat&logo=PyTorch&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=flat&logo=gitlab&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white) ![Jest](https://img.shields.io/badge/-jest-%23C21325?style=flat&logo=jest&logoColor=white) ![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=flat&logo=eslint&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white) ![Gradle](https://img.shields.io/badge/Gradle-02303A.svg?style=flat&logo=Gradle&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white) ![Wireguard](https://img.shields.io/badge/wireguard-%2388171A.svg?style=flat&logo=wireguard&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=arturzelek1&theme=calm&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=arturzelek1&theme=calm&hide_border=false)<br/>
+### 💬 Ask me about
+Java, Object-Oriented Programming, and SQL/NoSQL
+
+---
+
+# 💻 Tech Stack
+
+### Languages & Frameworks
+<img src="https://skillicons.dev/icons?i=java,spring,kotlin,ts,nestjs,nodejs,nextjs,angular,py" alt="Languages & Frameworks" />
+
+### Frontend & Design
+<img src="https://skillicons.dev/icons?i=html,css,bootstrap,figma" alt="Frontend & Design" />
+
+### Databases
+<img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql" alt="Databases" />
+
+### Utils & Platforms
+<img src="https://skillicons.dev/icons?i=idea,androidstudio,git,bitbucket,docker,maven,gcp,rabbitmq,github,gitlab,gradle" alt="Tools & Platforms" />
+
+---
+
+# 📊 GitHub Stats
+![](https://github-readme-stats.vercel.app/api?username=arturzelek1&theme=calm&hide_border=false&include_all_commits=true&count_private=true)
+<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=arturzelek1&theme=calm&hide_border=false)
+<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=arturzelek1&theme=calm&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+---
+
+## 🌍 Languages
+![English](https://img.shields.io/badge/English-Advanced-green?style=for-the-badge)
+![Polish](https://img.shields.io/badge/Polish-Fluent-blue?style=for-the-badge)
+![French](https://img.shields.io/badge/French-Communicative-orange?style=for-the-badge)
+
+## 🌐 Socials
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/artur-zelek-in)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+</div>
