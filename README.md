@@ -1,4 +1,9 @@
-# About Me:
+# Hi there, I'm Arthur Zelek! 👋
+
+### Software Engineer
+
+I am a Graduate Engineer from the **University of Bielsko-Biała** and a current student of **Informatics & Econometrics** at the **University of Economics in Katowice**. I focus on building robust backend solutions and leveraging data-driven insights.
+
 🔭 I’m currently working on<br>Building backend applications with Spring Framework and SQL/NoSQL integration<br><br>🌱 I’m currently learning<br>Clean Code principles in Java, Spring Data JPA, and Unit Testing (JUnit/Mockito)<br><br>💬 Ask me about<br>Java basics, Object-Oriented Programming, and SQL/NoSQL
 
 
