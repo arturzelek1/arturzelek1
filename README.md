@@ -17,16 +17,16 @@ Java, Object-Oriented Programming, and SQL/NoSQL
 # 💻 Tech Stack
 
 ### Languages
-<img src="https://skillicons.dev/icons?i=java,kotlin,ts,py" alt="Languages" />
+<img src="https://skillicons.dev/icons?i=kotlin,ts,java,py" alt="Languages" />
 
 ### Frameworks
-<img src="https://skillicons.dev/icons?i=spring,nestjs,nodejs,nextjs,angular" alt="Frameworks" />
+<img src="https://skillicons.dev/icons?i=spring,nestjs,express,nextjs,angular" alt="Frameworks" />
 
 ### Databases
-<img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,redis" alt="Databases" />
+<img src="https://skillicons.dev/icons?i=postgres,mongodb,firebase,supabase,redis" alt="Databases" />
 
 ### Utils & Platforms
-<img src="https://skillicons.dev/icons?i=idea,androidstudio,git,bitbucket,docker,postman,obsidian,maven,gcp,rabbitmq,github,gitlab,gradle" alt="Tools & Platforms" />
+<img src="https://skillicons.dev/icons?i=git,bitbucket,docker,postman,obsidian,maven,gcp,rabbitmq,gradle,cloudflare,githubactions" alt="Tools & Platforms" />
 
 # 📊 GitHub Stats
 ![](https://github-readme-stats.vercel.app/api?username=arturzelek1&theme=calm&hide_border=false&include_all_commits=true&count_private=true)
