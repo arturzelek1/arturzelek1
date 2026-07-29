@@ -28,20 +28,14 @@ Java, Object-Oriented Programming, and SQL/NoSQL
 ### Utils & Platforms
 <img src="https://skillicons.dev/icons?i=git,bitbucket,docker,postman,obsidian,maven,gcp,rabbitmq,gradle,cloudflare,githubactions" alt="Tools & Platforms" />
 
-# 📊 GitHub Stats
-![](https://github-readme-stats.vercel.app/api?username=arturzelek1&theme=calm&hide_border=false&include_all_commits=true&count_private=true)
-<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=arturzelek1&theme=calm&hide_border=false)
-<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=arturzelek1&theme=calm&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
 ## 🌍 Languages
 ![English](https://img.shields.io/badge/English-Advanced-green?style=for-the-badge)
 ![Polish](https://img.shields.io/badge/Polish-Fluent-blue?style=for-the-badge)
 ![French](https://img.shields.io/badge/French-Communicative-orange?style=for-the-badge)
 
 ## 🌐 Socials
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/artur-zelek-in)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Artur_Zelek-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/artur-zelek-in)
+[![Portfolio](https://img.shields.io/badge/Visit_Portfolio-art1z.dev-111111?style=flat-square&logo=googlechrome&logoColor=white)](https://art1z.dev)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
