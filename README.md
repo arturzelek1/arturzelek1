@@ -26,7 +26,7 @@ Java, Object-Oriented Programming, and SQL/NoSQL
 <img src="https://skillicons.dev/icons?i=postgres,mongodb,firebase,supabase,redis" alt="Databases" />
 
 ### Utils & Platforms
-<img src="https://skillicons.dev/icons?i=git,bitbucket,docker,postman,obsidian,maven,gcp,rabbitmq,gradle,cloudflare,githubactions" alt="Tools & Platforms" />
+<img src="https://skillicons.dev/icons?i=git,docker,postman,obsidian,maven,gcp,rabbitmq,gradle,cloudflare,githubactions" alt="Tools & Platforms" />
 
 ## 🌍 Languages
 ![English](https://img.shields.io/badge/English-Advanced-green?style=for-the-badge)
